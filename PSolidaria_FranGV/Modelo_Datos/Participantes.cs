@@ -13,7 +13,7 @@ namespace PSolidaria_FranGV.Modelo_Datos
         // CONSTANTES
         // Default
         private const int NUM_DEF = 0;
-        //  Nombre
+        //  NombreS
         private const int MIN_NAME = 3;
         private const int MAX_NAME = 20;
         // Apellidos
